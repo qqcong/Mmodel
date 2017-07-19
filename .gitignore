@@ -1,0 +1,5 @@
+*.log
+*.csv
+*.txt
+*.pyc
+libfile/
